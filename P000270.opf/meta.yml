@@ -1,14 +1,16 @@
-ebook_metadata:
+id: P000270
+initial_creation_type: ebook
+source_metadata:
   title: ༄༅། །དྲི་མེད་སྣང་བ་གྲུབ་པ་མཆོག་གི་ཞལ་ལུང་ཞེས་བྱ་བ། གྲུབ་ཐོབ་དམ་པ་སངས་རྒྱས་ནས་བརྒྱུད་པའི་དམ་ཆོས་སྡུག་བསྔལ་ཞི་བྱེད་ཀྱི་ལམ་ལྔའི་ཁྲིད་ཡིག་བཞུགས་སོ།
     །
   authors:
   - མཛད་པ་པོ་དངོས། སྙེ་མདོ་བསོད་ནམས་དཔལ།
-  sku: LS-ZHI-05-11
   layers:
   - book_title
   - author
   - chapter_title
   - yigchung
+  id: LS-ZHI-05-11
 web_metadata:
   title:
     en: The Words of Stainless Vision and the Supreme Siddha:The Instructions on the
